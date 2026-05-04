@@ -4,6 +4,10 @@ A practice repository for learning and experimenting with **CSS frameworks**, **
 
 ## Overview
 
+Not intended as a production application.
+
+
+
 This project is focused on improving frontend styling skills by exploring:
 
 - CSS fundamentals
@@ -21,6 +25,5 @@ This repository is mainly for:
 - comparing outputs
 - experimenting with styling patterns
 
-Not intended as a production application.
 
 ## Author
